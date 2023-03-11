@@ -1,0 +1,9 @@
+export const Bold = 'Inter-Bold';
+export const Black = 'Inter-Black';
+export const ExtraBold = 'Inter-ExtraBold';
+export const ExtraLight = 'Inter-ExtraLight';
+export const Light = 'Inter-Light';
+export const Medium = 'Inter-Medium';
+export const Regular = 'Inter-Regular';
+export const SemiBold = 'Inter-SemiBold';
+export const Thin = 'Inter-Thin';
